@@ -30,4 +30,5 @@ target.write(line3)
 target.write("\n")
 
 print "And finally, we close it."
+# We are going to add a simple change to see how this commits
 target.close()
