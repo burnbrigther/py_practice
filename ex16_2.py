@@ -13,6 +13,7 @@ target = open(filename, 'r')
 
 # Now we create a for loop in which we circulate through all lines in target, then we simply print
 # the lines out.
+# https://docs.python.org/2/tutorial/inputoutput.html#reading-and-writing-files
 for line in target:
     print line,
 
